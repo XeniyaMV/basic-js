@@ -29,4 +29,4 @@ module.exports = {
   deleteDigit
 };
 
-console.log(deleteDigit(152));
+// console.log(deleteDigit(152));
