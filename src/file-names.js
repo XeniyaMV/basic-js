@@ -16,8 +16,6 @@ const { NotImplementedError } = require('../extensions/index.js');
  *
  */
 function renameFiles( names ) {
-  // throw new NotImplementedError('Not implemented');
-  // remove line with error and write your code here
 
   let fileNames = {};
   let renamedFiles = [];
@@ -40,4 +38,4 @@ module.exports = {
   renameFiles
 };
 
-console.log(renameFiles(["file", "file", "image", "file(1)", "file"]));
+// console.log(renameFiles(["file", "file", "image", "file(1)", "file"]));
