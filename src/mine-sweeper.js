@@ -56,9 +56,9 @@ module.exports = {
   minesweeper
 };
 
-let matrix =  [
-  [true, false, false],
-  [false, true, false],
-  [false, false, false]
- ];
+// let matrix =  [
+//   [true, false, false],
+//   [false, true, false],
+//   [false, false, false]
+//  ];
 
